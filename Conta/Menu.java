@@ -7,7 +7,7 @@ public class Menu {
         int opcao, saida;
         int num;
         double sal, valor;
-        
+         
         Scanner entrada = new Scanner(System.in);
         
         System.out.println("Digite o Numero da conta: ");
